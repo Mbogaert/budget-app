@@ -15,7 +15,7 @@ const FILES_TO_CACHE = [
     "/css/styles.cc",
     "/index.html",
     "/js/index.js",
-    // "/manifest.json"
+    "/manifest.json"
 ];
 
 self.addEventListener('fetch', function (e) {
